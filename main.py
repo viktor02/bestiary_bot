@@ -59,7 +59,7 @@ def bestiary(update, context):
 
 
 def main():
-    updater = Updater("801204921:AAGhMVSFcVQoMPxkNBGmI7396BCDV6YgFrY", use_context=True)
+    updater = Updater(config['telegram']['TOKEN'], use_context=True)
 
     dp = updater.dispatcher
 
