@@ -1,5 +1,6 @@
 # bestiary_bot
 ![Дракон](https://i.imgur.com/RwatAzi.png)
+
 Python-implementaion of bestiary.us telegram bot
 
 ## Install
