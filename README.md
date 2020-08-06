@@ -1,5 +1,5 @@
 # bestiary_bot
-![Дракон](https://i.imgur.com/RwatAzi.png)
+![Дракон](img/hello.png)
 
 Python-implementaion of bestiary.us telegram bot
 
